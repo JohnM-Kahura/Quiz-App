@@ -2,5 +2,5 @@
 ##The questions are pulled from the Trivia API
 
 
-![Screenshots of the app](https://github.com/JohnM-Kahura/Quiz-App/blob/master/screenshots/1.png)
-!(https://github.com/JohnM-Kahura/Quiz-App/blob/master/screenshots/1.png)
+![question 1](https://github.com/JohnM-Kahura/Quiz-App/blob/master/screenshots/1.png)
+![question 2](https://github.com/JohnM-Kahura/Quiz-App/blob/master/screenshots/1.png)
